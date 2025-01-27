@@ -1,0 +1,4 @@
+[submodule "lib/cleverhand-interface"]
+	path = lib/cleverhand-interface
+	url = ../cleverhand-interface
+	branch = main
